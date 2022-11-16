@@ -9,8 +9,8 @@ const Landing = () => {
                 <div className="header__description">
                 <h1>America's most awarded online library platform</h1>
                 <h2>Find your dream book with <span className="purple">Library</span></h2>
-          <a href="/">
-            <button className="btn" onClick={() => alert("Anchor tags are incompatible with Github Pages while using Hash Router")}>Browse books</button>
+          <a href="">
+            <button className="btn" onClick={() => alert("Anchor tags are incompatible with Github Pages while using Hash Router, Apologies!")}>Browse books</button>
           </a>
             </div>
             <figure className="header__img--wrapper">
