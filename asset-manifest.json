@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Library-React-App/static/css/main.d34b8cec.css",
-    "main.js": "/Library-React-App/static/js/main.ab84a0e8.js",
+    "main.js": "/Library-React-App/static/js/main.f4f41ab5.js",
     "static/js/787.e72281d7.chunk.js": "/Library-React-App/static/js/787.e72281d7.chunk.js",
     "static/media/Undraw_Books.svg": "/Library-React-App/static/media/Undraw_Books.64f45ed25262241aba12eff6dcb25d88.svg",
     "static/media/Library.svg": "/Library-React-App/static/media/Library.bec72f00ca8e17a87ef2cd05953d228a.svg",
@@ -9,11 +9,11 @@
     "index.html": "/Library-React-App/index.html",
     "static/media/wave.svg": "/Library-React-App/static/media/wave.47e43130c0ee9f20a86d.svg",
     "main.d34b8cec.css.map": "/Library-React-App/static/css/main.d34b8cec.css.map",
-    "main.ab84a0e8.js.map": "/Library-React-App/static/js/main.ab84a0e8.js.map",
+    "main.f4f41ab5.js.map": "/Library-React-App/static/js/main.f4f41ab5.js.map",
     "787.e72281d7.chunk.js.map": "/Library-React-App/static/js/787.e72281d7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d34b8cec.css",
-    "static/js/main.ab84a0e8.js"
+    "static/js/main.f4f41ab5.js"
   ]
 }
